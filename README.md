@@ -2,7 +2,7 @@
 
 I mirror necessary codebases on [://base.assembled.app/dependencies][dependencies].  
 I mirror legal code on [://base.assembled.app/legal][legal].  
-I run a public message board on [://dialogue.assembled.app][dialogue].
+I run a public message board on [://dialogue.assembled.app][dialogue].  
 I run a library on [://library.assembled.app][library].
 
 [dependencies]: https://base.assembled.app/dependencies
